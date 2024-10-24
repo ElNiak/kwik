@@ -3,4 +3,5 @@ module tech.kwik.h09 {
     requires java.net.http;
 
     exports net.luminis.quic.client.h09;
+    exports net.luminis.quic.io;
 }
